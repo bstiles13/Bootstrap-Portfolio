@@ -1,0 +1,110 @@
+* {
+	box-sizing: border-box;
+	color: #777777;
+}
+
+h2, h3 {
+	color: #4aaaa5;
+	padding: 0;
+	margin: 0;
+}
+
+.nav-container {
+	border-bottom: 2px solid #dddddd;
+}
+
+.row {
+	width: 100%;
+}
+
+.nav-color {
+	overflow: auto;
+}
+
+.container {
+	width: 100%;
+	max-width: 960px;
+	margin: 0 auto;
+	clear: both;
+}
+
+h1 {
+	display: inline-block;
+	padding: 20px;
+	margin: 0;
+	background-color: #4aaaa5;
+	position: relative;
+	float: left;
+	color: white;
+}
+
+ul {
+	float: right;
+	padding: 20px 0 0 0;
+	margin-right: 20px;
+}
+
+.nav a {
+	color: #777777;
+	font-size: 18px;
+}
+
+.body-container {
+	margin: 0;
+	background-image: url('../images/concrete.png');
+	overflow: hidden;
+}
+
+.about-me {
+	background-color: white;
+	border: 1px solid #dddddd;
+	padding: 20px;
+	margin: 20px 0;
+}
+
+.about-me h2 {
+	border-bottom: 3px solid #dddddd;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+}
+
+.about-me img {
+	width: 200px;
+	float: left;
+	margin-right: 20px;
+}
+
+.connect {
+	padding: 20px;
+	margin: 20px auto;
+	border: 1px solid #dddddd;
+	text-align: center;
+	background-color: white;
+}
+
+.connect h3 {
+	padding-bottom: 20px;
+	margin: 0 0 20px 0;
+	border-bottom: 2px solid #dddddd;
+}
+
+.connect a {
+	display: inline-block;
+}
+
+.connect img {
+	width: 60px;
+	margin: 0 2px;
+}
+
+.footer-container {
+	text-align: center;
+	padding: 30px;
+	background-color: #666666;
+	border-top: 5px solid #4aaaa5;
+	font-size: 13px;
+}
+
+.footer {
+	color: white;
+}
